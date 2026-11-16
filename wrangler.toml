@@ -1,0 +1,17 @@
+name = "cd-receipts"
+main = "src/worker.js"
+compatibility_date = "2025-09-01"
+workers_dev = true
+
+# Runs the tracker on your own domain (recommended, e.g. go.yoursite.com).
+# Add the subdomain to Cloudflare first, then uncomment and edit:
+# routes = [ { pattern = "go.yoursite.com/*", zone_name = "yoursite.com" } ]
+
+[[d1_databases]]
+binding = "DB"
+database_name = "cd-receipts"
+database_id = "00000000-0000-0000-0000-000000000000"
+migrations_dir = "migrations"
+
+[observability]
+enabled = true

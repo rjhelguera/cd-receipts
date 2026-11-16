@@ -1,0 +1,19 @@
+{
+  "name": "cd-receipts",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Creative Direct Receipts: see which YouTube videos bring you leads and sales.",
+  "license": "MIT",
+  "scripts": {
+    "dev": "wrangler dev --local",
+    "deploy": "wrangler deploy"
+  },
+  "devDependencies": {
+    "wrangler": "^4.45.0"
+  },
+  "cloudflare": {
+    "bindings": {
+      "DB": { "description": "The database that stores your clicks, leads and sales. Keep the default name." }
+    }
+  }
+}
