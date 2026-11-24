@@ -4,7 +4,7 @@ Receipts for every video. A free, open-source tracker for business owners who us
 
 Made by [Creative Direct](https://www.creative-direct.com/). Runs in **your own free Cloudflare account**, so your data stays yours and there is nothing to pay.
 
-> **Want more?** This is the starting point. When you want one-click tracking links across your whole channel, funnel-path views, comment analysis, AI video ideas, team seats and real support, use [RevTrack](https://getrevtrack.com/) by Ed Lawrence. We recommend it and we're not trying to replace it.
+> **Want more?** This is the starting point. When you want one-click tracking links across your whole channel, funnel-path views, comment analysis, AI video ideas, team seats and real support, use [RevTrack](https://getrevtrack.com/?ref=otuwodk) by Ed Lawrence. We recommend it and we're not trying to replace it.
 
 ---
 
@@ -68,7 +68,7 @@ The bottom of the dashboard points to a free live channel review on Creative Dir
 
 ## What's deliberately NOT here
 
-One-click rewriting of every description on your channel, funnel-path visualisations, comment analysis, AI video ideas, team seats, multiple channels, email support. [RevTrack](https://getrevtrack.com/) does all of that, and if this tool shows you that YouTube makes you money, that's the upgrade.
+One-click rewriting of every description on your channel, funnel-path visualisations, comment analysis, AI video ideas, team seats, multiple channels, email support. [RevTrack](https://getrevtrack.com/?ref=otuwodk) does all of that, and if this tool shows you that YouTube makes you money, that's the upgrade.
 
 ## Costs and limits
 
