@@ -17,7 +17,7 @@ export const CONFIG = {
   // "Outgrown this?" — the paid tool we recommend for people who want more. Shown last.
   revtrack: {
     name: 'RevTrack',
-    url: 'https://getrevtrack.com/?ref=creativedirect', // TODO: replace with the Creative Direct affiliate link
+    url: 'https://getrevtrack.com/?ref=otuwodk',
     blurb: 'One-click tracking links on every video, funnel paths, comment analysis, AI video ideas, team seats and real support. Built by Ed Lawrence.',
   },
 };
